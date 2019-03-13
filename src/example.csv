@@ -1,0 +1,521 @@
+name,type,value,date
+塞维利亚,Sevilla,3,1
+巴塞罗那,FC Barcelona,3,1
+莱万特,Levante,3,1
+皇家马德里,Real Madrid,3,1
+毕尔巴鄂竞技,Athletic Bilbao,3,1
+韦斯卡,SD Huesca,3,1
+皇家社会,Real Sociedad,3,1
+塞尔塔,Celta Vigo,1,1
+巴伦西亚,Valencia?,1,1
+西班牙人,RCD Espanyol,1,1
+马德里竞技,Atletico Madrid,1,1
+瓦拉多利德,Real Valladolid,1,1
+赫罗纳,Girona,1,1
+比利亚雷亚尔,Villarreal,0,1
+埃瓦尔,Eibar,0,1
+莱加内斯,Leganes,0,1
+赫塔菲,Getafe,0,1
+巴列卡诺,Rayo Vallecano,0,1
+皇家贝蒂斯,Real Betis,0,1
+阿拉维斯,Alves Sales,0,1
+皇家马德里,Real Madrid,6,2
+巴塞罗那,FC Barcelona,6,2
+塞维利亚,Sevilla,4,2
+西班牙人,RCD Espanyol,4,2
+皇家社会,Real Sociedad,4,2
+韦斯卡,SD Huesca,4,2
+毕尔巴鄂竞技,Athletic Bilbao,4,2
+塞尔塔,Celta Vigo,4,2
+马德里竞技,Atletico Madrid,4,2
+莱万特,Levante,3,2
+赫塔菲,Getafe,3,2
+莱加内斯,Leganes,1,2
+比利亚雷亚尔,Villarreal,1,2
+瓦拉多利德,Real Valladolid,1,2
+巴伦西亚,Valencia?,1,2
+赫罗纳,Girona,1,2
+阿拉维斯,Alves Sales,1,2
+皇家贝蒂斯,Real Betis,1,2
+埃瓦尔,Eibar,0,2
+巴列卡诺,Rayo Vallecano,0,2
+巴塞罗那,FC Barcelona,9,3
+皇家马德里,Real Madrid,9,3
+塞尔塔,Celta Vigo,7,3
+毕尔巴鄂竞技,Athletic Bilbao,5,3
+莱万特,Levante,4,3
+塞维利亚,Sevilla,4,3
+西班牙人,RCD Espanyol,4,3
+皇家社会,Real Sociedad,4,3
+赫塔菲,Getafe,4,3
+马德里竞技,Atletico Madrid,4,3
+阿拉维斯,Alves Sales,4,3
+赫罗纳,Girona,4,3
+皇家贝蒂斯,Real Betis,4,3
+韦斯卡,SD Huesca,4,3
+埃瓦尔,Eibar,3,3
+瓦拉多利德,Real Valladolid,2,3
+巴伦西亚,Valencia?,2,3
+比利亚雷亚尔,Villarreal,1,3
+莱加内斯,Leganes,1,3
+巴列卡诺,Rayo Vallecano,1,3
+巴塞罗那,FC Barcelona,12,4
+皇家马德里,Real Madrid,10,4
+塞尔塔,Celta Vigo,7,4
+西班牙人,RCD Espanyol,7,4
+赫塔菲,Getafe,7,4
+赫罗纳,Girona,7,4
+阿拉维斯,Alves Sales,7,4
+毕尔巴鄂竞技,Athletic Bilbao,6,4
+马德里竞技,Atletico Madrid,5,4
+皇家贝蒂斯,Real Betis,5,4
+莱万特,Levante,4,4
+塞维利亚,Sevilla,4,4
+皇家社会,Real Sociedad,4,4
+比利亚雷亚尔,Villarreal,4,4
+埃瓦尔,Eibar,4,4
+巴列卡诺,Rayo Vallecano,4,4
+韦斯卡,SD Huesca,4,4
+巴伦西亚,Valencia?,3,4
+瓦拉多利德,Real Valladolid,2,4
+莱加内斯,Leganes,1,4
+巴塞罗那,FC Barcelona,13,5
+皇家马德里,Real Madrid,13,5
+阿拉维斯,Alves Sales,10,5
+塞尔塔,Celta Vigo,8,5
+马德里竞技,Atletico Madrid,8,5
+赫罗纳,Girona,8,5
+塞维利亚,Sevilla,7,5
+毕尔巴鄂竞技,Athletic Bilbao,7,5
+西班牙人,RCD Espanyol,7,5
+皇家社会,Real Sociedad,7,5
+赫塔菲,Getafe,7,5
+埃瓦尔,Eibar,7,5
+皇家贝蒂斯,Real Betis,6,5
+比利亚雷亚尔,Villarreal,5,5
+巴伦西亚,Valencia?,4,5
+莱万特,Levante,4,5
+韦斯卡,SD Huesca,4,5
+巴列卡诺,Rayo Vallecano,4,5
+瓦拉多利德,Real Valladolid,3,5
+莱加内斯,Leganes,1,5
+巴塞罗那,FC Barcelona,13,6
+皇家马德里,Real Madrid,13,6
+马德里竞技,Atletico Madrid,11,6
+阿拉维斯,Alves Sales,11,6
+塞维利亚,Sevilla,10,6
+西班牙人,RCD Espanyol,10,6
+塞尔塔,Celta Vigo,9,6
+皇家贝蒂斯,Real Betis,9,6
+比利亚雷亚尔,Villarreal,8,6
+皇家社会,Real Sociedad,8,6
+赫塔菲,Getafe,8,6
+赫罗纳,Girona,8,6
+毕尔巴鄂竞技,Athletic Bilbao,7,6
+埃瓦尔,Eibar,7,6
+瓦拉多利德,Real Valladolid,6,6
+巴伦西亚,Valencia?,5,6
+巴列卡诺,Rayo Vallecano,5,6
+莱万特,Levante,4,6
+莱加内斯,Leganes,4,6
+韦斯卡,SD Huesca,4,6
+巴塞罗那,FC Barcelona,14,7
+皇家马德里,Real Madrid,14,7
+塞维利亚,Sevilla,13,7
+马德里竞技,Atletico Madrid,12,7
+皇家贝蒂斯,Real Betis,12,7
+阿拉维斯,Alves Sales,11,7
+西班牙人,RCD Espanyol,11,7
+塞尔塔,Celta Vigo,10,7
+赫塔菲,Getafe,9,7
+瓦拉多利德,Real Valladolid,9,7
+赫罗纳,Girona,9,7
+比利亚雷亚尔,Villarreal,8,7
+皇家社会,Real Sociedad,8,7
+巴伦西亚,Valencia?,8,7
+毕尔巴鄂竞技,Athletic Bilbao,8,7
+莱万特,Levante,7,7
+埃瓦尔,Eibar,7,7
+巴列卡诺,Rayo Vallecano,6,7
+韦斯卡,SD Huesca,5,7
+莱加内斯,Leganes,4,7
+塞维利亚,Sevilla,16,8
+巴塞罗那,FC Barcelona,15,8
+马德里竞技,Atletico Madrid,15,8
+皇家马德里,Real Madrid,14,8
+西班牙人,RCD Espanyol,14,8
+阿拉维斯,Alves Sales,14,8
+瓦拉多利德,Real Valladolid,12,8
+皇家贝蒂斯,Real Betis,12,8
+皇家社会,Real Sociedad,11,8
+塞尔塔,Celta Vigo,10,8
+莱万特,Levante,10,8
+埃瓦尔,Eibar,10,8
+赫塔菲,Getafe,9,8
+巴伦西亚,Valencia?,9,8
+赫罗纳,Girona,9,8
+比利亚雷亚尔,Villarreal,8,8
+毕尔巴鄂竞技,Athletic Bilbao,8,8
+莱加内斯,Leganes,7,8
+巴列卡诺,Rayo Vallecano,6,8
+韦斯卡,SD Huesca,5,8
+巴塞罗那,FC Barcelona,18,9
+西班牙人,RCD Espanyol,17,9
+阿拉维斯,Alves Sales,17,9
+塞维利亚,Sevilla,16,9
+马德里竞技,Atletico Madrid,16,9
+瓦拉多利德,Real Valladolid,15,9
+皇家马德里,Real Madrid,14,9
+莱万特,Levante,13,9
+皇家社会,Real Sociedad,12,9
+赫塔菲,Getafe,12,9
+皇家贝蒂斯,Real Betis,12,9
+埃瓦尔,Eibar,11,9
+塞尔塔,Celta Vigo,10,9
+巴伦西亚,Valencia?,10,9
+赫罗纳,Girona,10,9
+比利亚雷亚尔,Villarreal,9,9
+毕尔巴鄂竞技,Athletic Bilbao,9,9
+莱加内斯,Leganes,8,9
+巴列卡诺,Rayo Vallecano,6,9
+韦斯卡,SD Huesca,5,9
+巴塞罗那,FC Barcelona,21,10
+阿拉维斯,Alves Sales,20,10
+塞维利亚,Sevilla,19,10
+马德里竞技,Atletico Madrid,19,10
+西班牙人,RCD Espanyol,18,10
+瓦拉多利德,Real Valladolid,16,10
+莱万特,Levante,16,10
+赫塔菲,Getafe,15,10
+皇家马德里,Real Madrid,14,10
+塞尔塔,Celta Vigo,13,10
+赫罗纳,Girona,13,10
+皇家社会,Real Sociedad,12,10
+皇家贝蒂斯,Real Betis,12,10
+巴伦西亚,Valencia?,11,10
+埃瓦尔,Eibar,11,10
+毕尔巴鄂竞技,Athletic Bilbao,10,10
+比利亚雷亚尔,Villarreal,9,10
+莱加内斯,Leganes,8,10
+巴列卡诺,Rayo Vallecano,6,10
+韦斯卡,SD Huesca,5,10
+巴塞罗那,FC Barcelona,24,11
+西班牙人,RCD Espanyol,21,11
+塞维利亚,Sevilla,20,11
+马德里竞技,Atletico Madrid,20,11
+阿拉维斯,Alves Sales,20,11
+皇家马德里,Real Madrid,17,11
+莱万特,Levante,17,11
+赫塔菲,Getafe,16,11
+瓦拉多利德,Real Valladolid,16,11
+赫罗纳,Girona,16,11
+塞尔塔,Celta Vigo,14,11
+埃瓦尔,Eibar,14,11
+皇家社会,Real Sociedad,13,11
+皇家贝蒂斯,Real Betis,13,11
+巴伦西亚,Valencia?,11,11
+比利亚雷亚尔,Villarreal,10,11
+毕尔巴鄂竞技,Athletic Bilbao,10,11
+莱加内斯,Leganes,9,11
+巴列卡诺,Rayo Vallecano,6,11
+韦斯卡,SD Huesca,6,11
+巴塞罗那,FC Barcelona,24,12
+塞维利亚,Sevilla,23,12
+马德里竞技,Atletico Madrid,23,12
+阿拉维斯,Alves Sales,23,12
+西班牙人,RCD Espanyol,21,12
+皇家马德里,Real Madrid,20,12
+瓦拉多利德,Real Valladolid,17,12
+莱万特,Levante,17,12
+赫罗纳,Girona,17,12
+皇家社会,Real Sociedad,16,12
+赫塔菲,Getafe,16,12
+皇家贝蒂斯,Real Betis,16,12
+埃瓦尔,Eibar,15,12
+塞尔塔,Celta Vigo,14,12
+巴伦西亚,Valencia?,14,12
+比利亚雷亚尔,Villarreal,11,12
+毕尔巴鄂竞技,Athletic Bilbao,10,12
+莱加内斯,Leganes,10,12
+巴列卡诺,Rayo Vallecano,7,12
+韦斯卡,SD Huesca,6,12
+塞维利亚,Sevilla,26,13
+巴塞罗那,FC Barcelona,25,13
+马德里竞技,Atletico Madrid,24,13
+阿拉维斯,Alves Sales,23,13
+西班牙人,RCD Espanyol,21,13
+皇家马德里,Real Madrid,20,13
+赫罗纳,Girona,20,13
+皇家社会,Real Sociedad,19,13
+莱万特,Levante,18,13
+埃瓦尔,Eibar,18,13
+巴伦西亚,Valencia?,17,13
+赫塔菲,Getafe,17,13
+瓦拉多利德,Real Valladolid,17,13
+皇家贝蒂斯,Real Betis,16,13
+塞尔塔,Celta Vigo,14,13
+比利亚雷亚尔,Villarreal,14,13
+莱加内斯,Leganes,13,13
+毕尔巴鄂竞技,Athletic Bilbao,11,13
+巴列卡诺,Rayo Vallecano,7,13
+韦斯卡,SD Huesca,7,13
+巴塞罗那,FC Barcelona,28,14
+塞维利亚,Sevilla,27,14
+马德里竞技,Atletico Madrid,25,14
+阿拉维斯,Alves Sales,24,14
+皇家马德里,Real Madrid,23,14
+莱万特,Levante,21,14
+赫罗纳,Girona,21,14
+西班牙人,RCD Espanyol,21,14
+赫塔菲,Getafe,20,14
+皇家社会,Real Sociedad,19,14
+皇家贝蒂斯,Real Betis,19,14
+埃瓦尔,Eibar,18,14
+塞尔塔,Celta Vigo,17,14
+巴伦西亚,Valencia?,17,14
+瓦拉多利德,Real Valladolid,17,14
+莱加内斯,Leganes,16,14
+比利亚雷亚尔,Villarreal,14,14
+毕尔巴鄂竞技,Athletic Bilbao,11,14
+巴列卡诺,Rayo Vallecano,10,14
+韦斯卡,SD Huesca,7,14
+巴塞罗那,FC Barcelona,31,15
+塞维利亚,Sevilla,28,15
+马德里竞技,Atletico Madrid,28,15
+皇家马德里,Real Madrid,26,15
+阿拉维斯,Alves Sales,24,15
+莱万特,Levante,22,15
+皇家贝蒂斯,Real Betis,22,15
+赫塔菲,Getafe,21,15
+赫罗纳,Girona,21,15
+西班牙人,RCD Espanyol,21,15
+塞尔塔,Celta Vigo,20,15
+瓦拉多利德,Real Valladolid,20,15
+皇家社会,Real Sociedad,19,15
+埃瓦尔,Eibar,19,15
+巴伦西亚,Valencia?,18,15
+莱加内斯,Leganes,17,15
+比利亚雷亚尔,Villarreal,14,15
+毕尔巴鄂竞技,Athletic Bilbao,14,15
+巴列卡诺,Rayo Vallecano,10,15
+韦斯卡,SD Huesca,7,15
+巴塞罗那,FC Barcelona,34,16
+塞维利亚,Sevilla,31,16
+马德里竞技,Atletico Madrid,31,16
+皇家马德里,Real Madrid,29,16
+皇家贝蒂斯,Real Betis,25,16
+阿拉维斯,Alves Sales,25,16
+赫塔菲,Getafe,24,16
+莱万特,Levante,22,16
+塞尔塔,Celta Vigo,21,16
+赫罗纳,Girona,21,16
+西班牙人,RCD Espanyol,21,16
+瓦拉多利德,Real Valladolid,20,16
+埃瓦尔,Eibar,20,16
+巴伦西亚,Valencia?,19,16
+皇家社会,Real Sociedad,19,16
+莱加内斯,Leganes,18,16
+比利亚雷亚尔,Villarreal,15,16
+毕尔巴鄂竞技,Athletic Bilbao,15,16
+巴列卡诺,Rayo Vallecano,10,16
+韦斯卡,SD Huesca,8,16
+巴塞罗那,FC Barcelona,37,17
+马德里竞技,Atletico Madrid,34,17
+塞维利亚,Sevilla,32,17
+皇家马德里,Real Madrid,30,17
+阿拉维斯,Alves Sales,28,17
+皇家贝蒂斯,Real Betis,26,17
+赫塔菲,Getafe,25,17
+巴伦西亚,Valencia?,22,17
+赫罗纳,Girona,22,17
+莱万特,Levante,22,17
+塞尔塔,Celta Vigo,21,17
+瓦拉多利德,Real Valladolid,21,17
+埃瓦尔,Eibar,21,17
+西班牙人,RCD Espanyol,21,17
+皇家社会,Real Sociedad,19,17
+莱加内斯,Leganes,19,17
+比利亚雷亚尔,Villarreal,16,17
+毕尔巴鄂竞技,Athletic Bilbao,16,17
+巴列卡诺,Rayo Vallecano,13,17
+韦斯卡,SD Huesca,8,17
+巴塞罗那,FC Barcelona,40,18
+马德里竞技,Atletico Madrid,35,18
+塞维利亚,Sevilla,33,18
+阿拉维斯,Alves Sales,31,18
+皇家马德里,Real Madrid,30,18
+皇家贝蒂斯,Real Betis,26,18
+赫塔菲,Getafe,25,18
+西班牙人,RCD Espanyol,24,18
+赫罗纳,Girona,23,18
+莱万特,Levante,23,18
+皇家社会,Real Sociedad,22,18
+巴伦西亚,Valencia?,22,18
+埃瓦尔,Eibar,22,18
+塞尔塔,Celta Vigo,21,18
+瓦拉多利德,Real Valladolid,21,18
+莱加内斯,Leganes,19,18
+毕尔巴鄂竞技,Athletic Bilbao,19,18
+比利亚雷亚尔,Villarreal,17,18
+巴列卡诺,Rayo Vallecano,16,18
+韦斯卡,SD Huesca,11,18
+巴塞罗那,FC Barcelona,43,19
+马德里竞技,Atletico Madrid,38,19
+塞维利亚,Sevilla,33,19
+皇家马德里,Real Madrid,33,19
+阿拉维斯,Alves Sales,32,19
+赫塔菲,Getafe,28,19
+皇家贝蒂斯,Real Betis,26,19
+皇家社会,Real Sociedad,25,19
+赫罗纳,Girona,24,19
+西班牙人,RCD Espanyol,24,19
+巴伦西亚,Valencia?,23,19
+莱万特,Levante,23,19
+莱加内斯,Leganes,22,19
+瓦拉多利德,Real Valladolid,22,19
+毕尔巴鄂竞技,Athletic Bilbao,22,19
+埃瓦尔,Eibar,22,19
+塞尔塔,Celta Vigo,21,19
+巴列卡诺,Rayo Vallecano,19,19
+比利亚雷亚尔,Villarreal,17,19
+韦斯卡,SD Huesca,11,19
+巴塞罗那,FC Barcelona,46,20
+马德里竞技,Atletico Madrid,41,20
+皇家马德里,Real Madrid,36,20
+塞维利亚,Sevilla,33,20
+阿拉维斯,Alves Sales,32,20
+赫塔菲,Getafe,31,20
+皇家贝蒂斯,Real Betis,29,20
+皇家社会,Real Sociedad,26,20
+巴伦西亚,Valencia?,26,20
+莱万特,Levante,26,20
+埃瓦尔,Eibar,25,20
+赫罗纳,Girona,24,20
+西班牙人,RCD Espanyol,24,20
+毕尔巴鄂竞技,Athletic Bilbao,23,20
+莱加内斯,Leganes,22,20
+瓦拉多利德,Real Valladolid,22,20
+塞尔塔,Celta Vigo,21,20
+巴列卡诺,Rayo Vallecano,20,20
+比利亚雷亚尔,Villarreal,18,20
+韦斯卡,SD Huesca,11,20
+巴塞罗那,FC Barcelona,49,21
+马德里竞技,Atletico Madrid,44,21
+皇家马德里,Real Madrid,39,21
+塞维利亚,Sevilla,36,21
+阿拉维斯,Alves Sales,32,21
+赫塔菲,Getafe,31,21
+巴伦西亚,Valencia?,29,21
+皇家贝蒂斯,Real Betis,29,21
+皇家社会,Real Sociedad,27,21
+埃瓦尔,Eibar,26,21
+毕尔巴鄂竞技,Athletic Bilbao,26,21
+莱万特,Levante,26,21
+瓦拉多利德,Real Valladolid,25,21
+赫罗纳,Girona,24,21
+西班牙人,RCD Espanyol,24,21
+莱加内斯,Leganes,23,21
+巴列卡诺,Rayo Vallecano,23,21
+塞尔塔,Celta Vigo,21,21
+比利亚雷亚尔,Villarreal,18,21
+韦斯卡,SD Huesca,12,21
+巴塞罗那,FC Barcelona,50,22
+马德里竞技,Atletico Madrid,44,22
+皇家马德里,Real Madrid,42,22
+塞维利亚,Sevilla,36,22
+赫塔菲,Getafe,32,22
+皇家贝蒂斯,Real Betis,32,22
+阿拉维斯,Alves Sales,32,22
+巴伦西亚,Valencia?,30,22
+皇家社会,Real Sociedad,30,22
+埃瓦尔,Eibar,29,22
+莱万特,Levante,27,22
+毕尔巴鄂竞技,Athletic Bilbao,26,22
+莱加内斯,Leganes,26,22
+瓦拉多利德,Real Valladolid,25,22
+西班牙人,RCD Espanyol,25,22
+塞尔塔,Celta Vigo,24,22
+赫罗纳,Girona,24,22
+巴列卡诺,Rayo Vallecano,23,22
+比利亚雷亚尔,Villarreal,19,22
+韦斯卡,SD Huesca,15,22
+巴塞罗那,FC Barcelona,51,23
+皇家马德里,Real Madrid,45,23
+马德里竞技,Atletico Madrid,44,23
+塞维利亚,Sevilla,37,23
+赫塔菲,Getafe,35,23
+阿拉维斯,Alves Sales,35,23
+皇家贝蒂斯,Real Betis,32,23
+巴伦西亚,Valencia?,31,23
+皇家社会,Real Sociedad,31,23
+埃瓦尔,Eibar,30,23
+莱加内斯,Leganes,29,23
+西班牙人,RCD Espanyol,28,23
+毕尔巴鄂竞技,Athletic Bilbao,27,23
+莱万特,Levante,27,23
+瓦拉多利德,Real Valladolid,26,23
+塞尔塔,Celta Vigo,24,23
+赫罗纳,Girona,24,23
+巴列卡诺,Rayo Vallecano,23,23
+比利亚雷亚尔,Villarreal,20,23
+韦斯卡,SD Huesca,18,23
+巴塞罗那,FC Barcelona,54,24
+马德里竞技,Atletico Madrid,47,24
+皇家马德里,Real Madrid,45,24
+塞维利亚,Sevilla,37,24
+赫塔菲,Getafe,36,24
+阿拉维斯,Alves Sales,36,24
+皇家社会,Real Sociedad,34,24
+皇家贝蒂斯,Real Betis,33,24
+巴伦西亚,Valencia?,32,24
+埃瓦尔,Eibar,31,24
+毕尔巴鄂竞技,Athletic Bilbao,30,24
+莱万特,Levante,30,24
+莱加内斯,Leganes,29,24
+西班牙人,RCD Espanyol,29,24
+赫罗纳,Girona,27,24
+瓦拉多利德,Real Valladolid,26,24
+塞尔塔,Celta Vigo,24,24
+比利亚雷亚尔,Villarreal,23,24
+巴列卡诺,Rayo Vallecano,23,24
+韦斯卡,SD Huesca,18,24
+巴塞罗那,FC Barcelona,57,25
+马德里竞技,Atletico Madrid,50,25
+皇家马德里,Real Madrid,48,25
+赫塔菲,Getafe,39,25
+塞维利亚,Sevilla,37,25
+阿拉维斯,Alves Sales,37,25
+皇家贝蒂斯,Real Betis,36,25
+皇家社会,Real Sociedad,35,25
+巴伦西亚,Valencia?,33,25
+毕尔巴鄂竞技,Athletic Bilbao,33,25
+埃瓦尔,Eibar,31,25
+莱加内斯,Leganes,30,25
+莱万特,Levante,30,25
+西班牙人,RCD Espanyol,30,25
+赫罗纳,Girona,28,25
+瓦拉多利德,Real Valladolid,26,25
+塞尔塔,Celta Vigo,25,25
+比利亚雷亚尔,Villarreal,23,25
+巴列卡诺,Rayo Vallecano,23,25
+韦斯卡,SD Huesca,19,25
+巴塞罗那,FC Barcelona,60,26
+马德里竞技,Atletico Madrid,53,26
+皇家马德里,Real Madrid,48,26
+赫塔菲,Getafe,42,26
+阿拉维斯,Alves Sales,40,26
+塞维利亚,Sevilla,37,26
+巴伦西亚,Valencia?,36,26
+皇家贝蒂斯,Real Betis,36,26
+皇家社会,Real Sociedad,35,26
+埃瓦尔,Eibar,34,26
+莱加内斯,Leganes,33,26
+毕尔巴鄂竞技,Athletic Bilbao,33,26
+西班牙人,RCD Espanyol,33,26
+赫罗纳,Girona,31,26
+莱万特,Levante,30,26
+瓦拉多利德,Real Valladolid,26,26
+塞尔塔,Celta Vigo,25,26
+比利亚雷亚尔,Villarreal,23,26
+巴列卡诺,Rayo Vallecano,23,26
+韦斯卡,SD Huesca,22,26
